@@ -9,7 +9,7 @@ The project aims to revisiting the safari search engine developed by Apple in or
 
 Home Screen                |  Search Page               
 :-------------------------:|:-------------------------:
-![](https://github.com/Antoinegtir/bloc-note/blob/main/assets/note.png)|![](https://github.com/Antoinegtir/bloc-note/blob/main/assets/delete.png)
+![](https://github.com/Antoinegtir/safari/blob/main/screenshot/home.png?raw=true)|![](https://github.com/Antoinegtir/safari/blob/main/screenshot/search.png?raw=true)
 
 ## Usage
 
