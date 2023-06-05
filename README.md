@@ -1,5 +1,7 @@
 # Safari
 
+<img height="100" src="https://github.com/Antoinegtir/safari/blob/main/assets/safari.png?raw=true"/>
+
 ## Description:
 The project aims to revisiting the safari search engine developed by Apple in order to understand how this type of application could work by doing the http request, the parsing of the data and the display of the results.
 
