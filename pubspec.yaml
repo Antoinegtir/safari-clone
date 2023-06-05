@@ -1,0 +1,36 @@
+name: delta
+description: A new Flutter project.
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.18.6 <3.0.0"
+
+dependencies:
+  animate_do: ^3.0.2
+  bouncing_widget: ^2.0.0
+  cached_network_image: ^3.2.3
+  cupertino_icons: ^1.0.2
+  flutter:
+    sdk: flutter
+  html: ^0.15.3
+  http: ^0.13.4
+  iconsax: ^0.0.8
+  lottie: ^2.3.2
+  path_provider: ^2.0.15
+  provider: ^6.0.5
+  rename: ^2.1.1
+  webview_flutter: ^4.2.1
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
